@@ -1,2 +1,0 @@
-# GoEuroTest
-GoEuroTest case
